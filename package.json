@@ -2,14 +2,11 @@
   "name": "hubot-gitter",
   "version": "0.0.0",
   "private": true,
-
   "author": "Suriyaa Kudo <SuriyaaKudoIsc@users.noreply.github.com>",
-
   "description": "A chat bot for the Bunto community",
-
   "dependencies": {
+    "hubot-gitter2": "^0.1.3"
   },
-
   "engines": {
     "node": "0.10.x"
   }
